@@ -1,3 +1,6 @@
+'''
+Stack implementation using arrays
+'''
 class ArrayStack:
     stack = []
     top = 0

@@ -1,3 +1,6 @@
+'''
+Queue implementation using arrays
+'''
 class ArrayQueue:
     queue = []
     back = 0
